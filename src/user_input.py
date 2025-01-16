@@ -1,7 +1,7 @@
 import numpy as np
 
 #   Basic Flowfield
-M1 = 8
+M1 = 5
 gamma = 1.4
 beta = 16.5
 beta_rad = np.radians(beta)
