@@ -7,7 +7,7 @@ beta = 16.5
 beta_rad = np.radians(beta)
 
 #   Define TE constants
-L = 2                                # Max. Length (See User Menu)
+L = 10                                # Max. Length (See User Menu)
 Rs = L * np.tan(np.radians(beta))    # Trailing Edge Parameter (See User Menu)
 R1 = 0.2 * Rs                        # Trailing Edge Parameter (See User Menu)
 W2 = 0.8 * Rs                        # Trailing Edge Parameter (See User Menu)
